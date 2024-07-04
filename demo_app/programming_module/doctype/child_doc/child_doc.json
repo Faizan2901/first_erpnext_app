@@ -1,0 +1,44 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-06-17 20:25:15.696654",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "abc",
+  "def",
+  "ghi"
+ ],
+ "fields": [
+  {
+   "fieldname": "abc",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ABC"
+  },
+  {
+   "fieldname": "def",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "DEF"
+  },
+  {
+   "fieldname": "ghi",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "GHI"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-06-17 20:29:15.176591",
+ "modified_by": "Administrator",
+ "module": "Programming Module",
+ "name": "Child Doc",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
