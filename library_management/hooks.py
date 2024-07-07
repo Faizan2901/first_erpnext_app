@@ -4,6 +4,7 @@ app_publisher = "Mohammad Faizan Sopariwala"
 app_description = "Library Management System"
 app_email = "faizan@example.com"
 app_license = "mit"
+export_python_type_annotations = True
 # required_apps = []
 
 # Includes in <head>
